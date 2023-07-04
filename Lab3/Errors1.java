@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Errors1 {
 
 	public static void main(String[] args) {
-		System.out.println("Can you spot and fix the errors?");
-												// I added a closing quote here
+		System.out.println("Can you spot and fix the errors?"); // I added a closing quote here	
 		System.out.println("Enter two numbers and I ");
 		System.out.println("add them for you");
 
